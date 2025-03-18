@@ -18,7 +18,7 @@ O modelo de metodologia tradicional em *espiral* determina a progressão do proj
 
 ### 📖 Manifesto Ágil
 
-O modelo de metodologia Ágil se baseia em gerir um projeto em ciclos de desenvolvimento, incluíndo feedbacks e testes para auxílio das equipes de gestão e desenvolvimento do produto, para que seja o mais próximo possível do esperado pelo cliente, porém deve ser bem gerido para não surgirem problemas como falta de tempo por causa de sua flexibilidade e demanda de feedbacks.
+As metodologias ágeis se baseiam em gerir um projeto em ciclos de desenvolvimento, incluíndo feedbacks e testes para auxílio das equipes de gestão e desenvolvimento do produto, para que seja o mais próximo possível do esperado pelo cliente, porém deve ser bem gerido para não surgirem problemas como falta de tempo por causa de sua flexibilidade e demanda de feedbacks.
 
 ## 🏆 Scrum
 
@@ -42,7 +42,7 @@ As cerimônias do Scrum são 5 eventos principais onde elas guiam o andamento do
 : São reuniões de 15 minutos por dia, onde cada membro expõe seu progresso, seus objetivos diários e suas dificuldades no desenvolvimento, com foco em sincronizar as atividades e esclarecer o que está acontecendo em cada parte do desenvolvimento.
 
 **Revisão do Sprint**
-: Está é uma reunião onde o(s) cliente(s) e outras partes interessadas testam o produto para serem gerados e coletados feedbacks sobre o produto, problemas, erros e acertos durante seu desenvolvimento.
+: Esta é uma reunião onde o(s) cliente(s) e outras partes interessadas testam o produto para serem gerados e coletados feedbacks sobre o produto, problemas, erros e acertos durante seu desenvolvimento.
 
 **Retrospectiva do Sprint**
 : Este momento é decicado a análisar como os objetivos do sprint que se finalizou no momento. Decisões, dificuldades e soluções são levadas em consideração para estruturar melhor o proximo sprint.
@@ -60,7 +60,7 @@ Extreme Programming é um dos modelos mais ágeis dentre as metodologias desse n
 ### 💪 GitHub / GitLab  
 
 **GitHub**
-: O *GitHub* é uma plataforma focada em gerenciamento de versões e colaboração em larga escala, onde comunidades podem ser criadas com facilidade e podem atuar em códigos abertos(open-source codes).
+: O *GitHub* é uma plataforma focada em gerenciamento de versões e colaboração em larga escala, onde comunidades podem ser criadas com facilidade e podem atuar em códigos abertos(open-source codes) e projetos colaborativos.
 
 **GitLab**
 : O *GitLab* é uma plataforma focada na colaboração em códigos e projetos, com foco no ***DevOps***, método focado em agilizar a colaboração entre as partes que estão atuando no projeto. o GitLab integra diversar funcionalidades que são geralmente encontradas em programas separados.
