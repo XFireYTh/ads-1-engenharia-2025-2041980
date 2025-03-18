@@ -75,4 +75,4 @@ Em suma, ambos são semelhantes em diversas características, como versões, his
 **Trello**
 : *Trello* é um software também pertencente a Atlassian, direcionado a organização de ações focado na metodologia ágil Kanban, porém o Trello tem um uso mais simplificado e limitado, com foco em pequenas equipes e empresas, ou até para uso pessoal, sendo mais intuitívo de utilizar
 
-Em suma, o Jira é focado em grandes equipes e empresas de grande porte, sendo menos intuitívo e um pouco mais difícil de se utilizar, enquanto o Trello tem como objetivo pequenas equipes e empresas, StartUps e pessoas comuns, tendo um uso mais intuitívo e dinâmico, além de ser fácil de se utilizar.
+Resumindo, o Jira é focado em grandes equipes e empresas de grande porte, sendo menos intuitívo e um pouco mais difícil de se utilizar, enquanto o Trello tem como objetivo pequenas equipes e empresas, StartUps e pessoas comuns, tendo um uso mais intuitívo e dinâmico, além de ser fácil de se utilizar.
